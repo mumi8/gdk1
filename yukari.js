@@ -14,7 +14,7 @@
 			outDelay:450,
   			containerID: 'yukari',
 			containerHoverID: 'yukariHover',
-			scrollSpeed: 1100,
+			scrollSpeed: 1200,
 			easingType: 'linear'
  		};
 
