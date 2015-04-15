@@ -12,8 +12,8 @@
 	bottom:100px;
 	right:50px;
 	overflow:hidden;
-	width:66px;
-	height:68px;
+	width:60px;
+	height:70px;
 	border:none;
 	text-indent:-999px;
 	background:url(../yukari/yukari.png) no-repeat left top;
@@ -21,8 +21,8 @@ z-index: 1501;
 }
 
 #yukariHover {
-	background:url(../yukari/yukari.png) no-repeat left -55px;
-	width:66px;
+	background:url(../yukari/yukari.png) no-repeat left -60px;
+	width:60px;
 	bottom:100px;
 	display:block;
 	overflow:hidden;
