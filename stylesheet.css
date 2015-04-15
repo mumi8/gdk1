@@ -181,7 +181,7 @@ select {
 }
 label {
 	cursor: pointer;
-font-size: 15px;
+font-size: 25px;
 }
 /* layout */
 #container {
@@ -189,19 +189,19 @@ font-size: 15px;
 	margin-left: auto;
 	margin-right: auto;
 	text-align: left;
-        box-shadow: 0 0 15px 5px rgb(233,233,233);
+        box-shadow: 0 0 15px 7px rgb(233,233,228);
         
 }
 #column-left {
 	float: left;
-	width: 180px;
+	width: 185px;
 }
 #column-right {
 	float: right;
-	width: 180px;
+	width: 185px;
 }
 #content {
-	min-height: 400px;
+	min-height: 450px;
 	margin-bottom: 25px;
         position: relative;
 z-index: 60;
