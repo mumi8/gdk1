@@ -1,0 +1,33 @@
+#callme_button > a { 
+position: fixed ;
+left: 0px;
+top: 70px;
+width: 49px;
+z-index: 999;
+cursor: pointer;
+height: 231px;
+padding: 0px;
+}
+#callme_button2 > a { 
+position: fixed ;
+left: 0px;
+top: 332px;
+width: 49px;
+z-index: 999;
+cursor: pointer;
+height: 231px;
+padding: 0px;
+}
+#callme_button3 > a { 
+position: fixed ;
+left: 0px;
+top:550px;
+width: 49px;
+z-index: 999;
+cursor: pointer;
+height: 231px;
+padding: 0px;
+}
+#callme_button > a.callme {width: 49px; height: 231px; }
+#callme_button2 > a.callme {width: 49px; height: 231px;}
+#callme_button3 > a.callme {width: 49px; height: 231px;}

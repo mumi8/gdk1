@@ -1,0 +1,66 @@
+.timer {
+    min-height: 120px;
+}
+.countdown_dashboard {
+	height: 110px;
+}
+
+
+
+.dash {
+	
+	width: 72px;
+	height: 54px;
+	padding-left: 8px;
+	float: left;
+	text-align: center;
+	position: relative;
+	margin-right: 0px;
+}
+
+.dig3 {
+	width: 165px !important;
+	background: transparent url('../image/dash3.png') 0 0 no-repeat !important;
+}
+
+.dash .digit {
+	background-image: url('../image/time_bg.png');
+	font-size: 36.45pt;
+    padding-left: 3px;
+    padding-right: 3px;
+	float: left;
+  border:1px solid rgb(201,201,201);
+	 height: 49px;
+	text-align: center;
+	font-family: Arial;
+	color: #555;
+	
+/*	
+	border-radius: 6px;
+*/
+
+	position: relative;
+
+}
+
+.dash_title {
+	position: absolute;
+	display: block;
+	bottom: -23px;
+	left: -6px;
+	
+	font-size: 9pt;
+	font-weight: bold;
+	color: #555;
+	
+	text-transform: uppercase;
+	letter-spacing: 2px;
+}
+
+.dev_comment {
+	font-size: 14pt;
+	color: #777;
+	text-align: center;
+	font-style: italic;
+	margin: 40px 10px;
+}

@@ -1,0 +1,18 @@
+@import "callme_base.css";
+
+#callme_button > a {background: url("../../image/call1.png");
+background-repeat: no-repeat;
+width: 49px;
+height: 231px;
+}
+#callme_button >a:hover {background: url("../../image/call1.png");
+background-repeat: no-repeat;
+width: 49px;
+height: 231px;}
+
+#callme_button2 > a {background: url("../../image/call2.png");
+background-repeat: no-repeat;
+width: 49px;
+height: 231px;
+}
+
