@@ -228,25 +228,25 @@ height:111px;
 		<div id="countdown_dashboard-755" class="countdown_dashboard">
 		
 			<div class="dash days_dash" style="display:none;">
-				<span class="dash_title">дней</span>
+				<span class="dash_title">days</span>
 				<div class="digit">0</div>
 				<div class="digit">0</div>
 			</div>
 
 			<div class="dash hours_dash" style="text-align:center;" >
-				<span class="dash_title">часов</span>
+				<span class="dash_title">hours</span>
 				<div class="digit">0</div>
 				<div class="digit">4</div>
 			</div>
 
 			<div class="dash minutes_dash">
-				<span class="dash_title">минут</span>
+				<span class="dash_title">minutes</span>
 				<div class="digit">0</div>
 				<div class="digit">2</div>
 			</div>
 
 			<div class="dash seconds_dash"  >
-				<span class="dash_title" >секунд</span>
+				<span class="dash_title" >second</span>
 				<div class="digit">6</div>
 				<div class="digit">0</div>
 			</div>
