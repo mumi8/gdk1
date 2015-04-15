@@ -10,11 +10,11 @@
  		var defaults = {
 			text: 'To Top',
 			min: 200,
-			inDelay:600,
-			outDelay:400,
+			inDelay:650,
+			outDelay:450,
   			containerID: 'yukari',
 			containerHoverID: 'yukariHover',
-			scrollSpeed: 1200,
+			scrollSpeed: 1100,
 			easingType: 'linear'
  		};
 
@@ -34,9 +34,7 @@
 					'opacity': 1
 				}, 600, 'linear');
 			}, function() { 
-				$(containerHoverIDHash, this).stop().animate({
-					'opacity': 0
-				}, 700, 'linear');
+				$(containerHoverIDHash, this).stop().animate({'opacity': 0}, 700, 'linear');
 			});
 					
 		$(window).scroll(function() {
